@@ -1,0 +1,9 @@
+Robin Tiefenthaler
+
+	GUI’s and CLI’s have the same function in the computer to organize files and view directories. However, they are both masked very differently. GUI is easier for a user to figure out initially but CLI may be a more efficient approach to certain tasks. 
+Graphical user interface directories allow the user to view what they are doing if they are not familiar with the command line terms. GUI is a lot more user friendly and intuitive. If you use a GUI like Windows, macOS, etc. then you do not need to memorize the commands to sort through directories. If someone is more into aesthetics and likes to see buttons, icons, menus, etc. then a GUI would be a better fit for them. 
+
+	Although GUI is easier for someone who is new to computers, CLI is much quicker to use. A GUI takes longer because it uses more memory to produce the graphics than a CLI. It would actually be interesting to see a few people time themselves using both systems to complete a task and see the difference in time performance. A CLI is also reliable as you can use it with both old and new systems. It has come in handy when imaging a new computer fails and you need to send commands to the computer to fix it. 
+
+	CLI’s are an efficient way for people to troubleshoot and manage the computer and servers. However, not everyone is into tech this much and simply have other needs for their computer. In this case, a GUI works very well and is sufficient. Ultimately, having both is best so that you can use your computer efficiently depending on the task at hand. 
+
