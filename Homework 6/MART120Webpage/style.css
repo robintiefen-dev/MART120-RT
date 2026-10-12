@@ -1,3 +1,8 @@
+#main-title{
+    color: #5b3a29;
+    text-align:center;
+}
+
 #houndDog {
     position: fixed;
     width: 100px;
@@ -19,6 +24,11 @@ body {
 
 .story-page {
     background-color: #f5f1e8;
+    background-image: url("houndBackground.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .summary {
